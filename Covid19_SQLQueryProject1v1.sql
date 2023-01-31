@@ -173,6 +173,3 @@ where dea.continent is not null
 
 
 
-
-
---Thanks to Alex The Analyst for making this handson lessons!
